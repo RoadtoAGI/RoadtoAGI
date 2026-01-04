@@ -1,6 +1,9 @@
 # Jianxiang Ma
 
-Email: 2401880@stu.neu.edu.cn
+Email: 
+2401880@stu.neu.edu.cn
+383455859@qq.com
+
 
 ## Affiliation
 Northeastern University
